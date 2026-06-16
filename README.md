@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anderson-Teixeira&color=00A1E0&style=flat-square&label=Profile+views" alt="profile views" />
 
 </div>
 
