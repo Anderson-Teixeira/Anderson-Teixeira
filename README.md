@@ -23,12 +23,9 @@
 
 ### GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%"><img width="100%" src="https://github-readme-stats-anderson-teixeiras-projects.vercel.app/api?username=Anderson-Teixeira&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=032D60&title_color=4FC3F7&text_color=E1F5FE&icon_color=00A1E0&border_color=0A56A4&ring_color=00A1E0" alt="GitHub stats" /></td>
-    <td width="50%"><img width="100%" src="https://streak-stats.demolab.com?user=Anderson-Teixeira&background=032D60&border=0A56A4&stroke=0A56A4&ring=00A1E0&fire=00A1E0&currStreakNum=E1F5FE&sideNums=E1F5FE&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=90CAF9" alt="GitHub streak" /></td>
-  </tr>
-</table>
+<img width="100%" src="https://github-readme-stats-anderson-teixeiras-projects.vercel.app/api?username=Anderson-Teixeira&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=032D60&title_color=4FC3F7&text_color=E1F5FE&icon_color=00A1E0&border_color=0A56A4&ring_color=00A1E0" alt="GitHub stats" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Anderson-Teixeira&background=032D60&border=0A56A4&stroke=0A56A4&ring=00A1E0&fire=00A1E0&currStreakNum=E1F5FE&sideNums=E1F5FE&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=90CAF9" alt="GitHub streak" />
 
 ---
 
