@@ -49,12 +49,11 @@
 
 ---
 
-### 📜 Salesforce Certifications
+### Salesforce Certifications
 
 <div align="center">
 
-🏆 **15 certifications** — including the **Application Architect** capstone
-
+🏆 **15 certifications** 
 </div>
 
 **Architect**
