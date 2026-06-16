@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00A1E0&height=200&section=header&text=Anderson%20Teixeira&fontColor=ffffff&fontSize=48&desc=Salesforce%20Developer%20%7C%20Agentforce%20%26%20Service%20Cloud&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00A1E0&height=190&section=header&text=Anderson%20Teixeira&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Salesforce%20Developer%20%7C%20Agentforce%20%26%20Service%20Cloud&descSize=17&descAlignY=58" width="100%" alt="Anderson Teixeira — Salesforce Developer | Agentforce & Service Cloud" />
 
 <a href="https://www.salesforce.com/trailblazer/andersonteixeira">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A1E0&center=true&vCenter=true&width=620&lines=Salesforce+Developer;Agentforce+%26+Service+Cloud;Certified+Application+Architect;Apex+%7C+LWC+%7C+Flows+%7C+SOQL" alt="Typing SVG" />
