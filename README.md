@@ -1,0 +1,124 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00A1E0&height=200&section=header&text=Anderson%20Teixeira&fontColor=ffffff&fontSize=48&desc=Salesforce%20Developer%20%7C%20Agentforce%20%26%20Service%20Cloud&descSize=18&descAlignY=60" width="100%" alt="header" />
+
+<a href="https://www.salesforce.com/trailblazer/andersonteixeira">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A1E0&center=true&vCenter=true&width=620&lines=Salesforce+Developer;Agentforce+%26+Service+Cloud;Certified+Application+Architect;Apex+%7C+LWC+%7C+Flows+%7C+SOQL" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Anderson-Teixeira&color=00A1E0&style=flat-square&label=Profile+views" alt="profile views" />
+
+</div>
+
+---
+
+### 👋 Sobre mim · About me
+
+🇧🇷 **PT** — Especialista Salesforce de **Fortaleza‑CE**. Atuo no desenvolvimento da plataforma (**Apex, LWC, Flows**) com ênfase em **Agentforce, Service Cloud** e arquitetura de soluções. Como **Application Architect** certificado, transformo regras de negócio em soluções escaláveis e bem governadas no ecossistema Salesforce.
+
+🇺🇸 **EN** — Salesforce specialist based in **Fortaleza, Brazil**. I build on the platform (**Apex, LWC, Flows**) with a focus on **Agentforce, Service Cloud** and solution architecture. As a certified **Application Architect**, I turn business rules into scalable, well‑governed solutions across the Salesforce ecosystem.
+
+---
+
+### 🛠️ Tech Stack
+
+**Salesforce Platform**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL_%2F_SOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Einstein](https://img.shields.io/badge/Einstein_AI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+**Languages & Web**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Tools & DevOps**
+
+![Salesforce CLI](https://img.shields.io/badge/Salesforce_CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📜 Salesforce Certifications
+
+<div align="center">
+
+🏆 **15 certifications** — including the **Application Architect** capstone
+
+</div>
+
+**🏛️ Architect**
+
+![Application Architect](https://img.shields.io/badge/Application_Architect_★-032D60?style=flat-square&logo=salesforce&logoColor=white)
+![Integration Architect](https://img.shields.io/badge/Integration_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Data Architect](https://img.shields.io/badge/Data_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Sharing and Visibility Architect](https://img.shields.io/badge/Sharing_%26_Visibility_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Development Lifecycle and Deployment Architect](https://img.shields.io/badge/Dev_Lifecycle_%26_Deployment_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**💻 Developer**
+
+![Platform Developer I](https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Platform App Builder](https://img.shields.io/badge/Platform_App_Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Platform Foundations](https://img.shields.io/badge/Platform_Foundations-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**🧩 Consultant**
+
+![Sales Cloud Consultant](https://img.shields.io/badge/Sales_Cloud_Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Service Cloud Consultant](https://img.shields.io/badge/Service_Cloud_Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Data 360 Consultant](https://img.shields.io/badge/Data_360_Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**🤖 AI & Agentforce**
+
+![Agentforce Specialist](https://img.shields.io/badge/Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![AI Associate](https://img.shields.io/badge/AI_Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**⚙️ Admin & Analyst**
+
+![Administrator](https://img.shields.io/badge/Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Business Analyst](https://img.shields.io/badge/Business_Analyst-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anderson-Teixeira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=Anderson-Teixeira&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+### 🤝 Connect · Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anderson--teixeira/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.salesforce.com/trailblazer/andersonteixeira">
+  <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer" />
+</a>
+<a href="mailto:anderson18062@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<div align="center">
+
+<sub>⚡ <em>"Turning business rules into scalable Salesforce solutions."</em></sub>
+
+</div>
