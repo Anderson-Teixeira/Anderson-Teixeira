@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anderson-Teixeira&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="165" src="https://github-readme-stats-anderson-teixeiras-projects.vercel.app/api?username=Anderson-Teixeira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=Anderson-Teixeira&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
