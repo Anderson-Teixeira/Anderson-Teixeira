@@ -57,7 +57,7 @@
 
 </div>
 
-**🏛️ Architect**
+**Architect**
 
 ![Application Architect](https://img.shields.io/badge/Application_Architect_★-032D60?style=flat-square&logo=salesforce&logoColor=white)
 ![Integration Architect](https://img.shields.io/badge/Integration_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -65,31 +65,31 @@
 ![Sharing and Visibility Architect](https://img.shields.io/badge/Sharing_%26_Visibility_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Development Lifecycle and Deployment Architect](https://img.shields.io/badge/Dev_Lifecycle_%26_Deployment_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-**💻 Developer**
+**Developer**
 
 ![Platform Developer I](https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Platform App Builder](https://img.shields.io/badge/Platform_App_Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Platform Foundations](https://img.shields.io/badge/Platform_Foundations-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-**🧩 Consultant**
+**Consultant**
 
 ![Sales Cloud Consultant](https://img.shields.io/badge/Sales_Cloud_Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Service Cloud Consultant](https://img.shields.io/badge/Service_Cloud_Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Data 360 Consultant](https://img.shields.io/badge/Data_360_Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-**🤖 AI & Agentforce**
+**AI & Agentforce**
 
 ![Agentforce Specialist](https://img.shields.io/badge/Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![AI Associate](https://img.shields.io/badge/AI_Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-**⚙️ Admin & Analyst**
+**Admin & Analyst**
 
 ![Administrator](https://img.shields.io/badge/Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Business Analyst](https://img.shields.io/badge/Business_Analyst-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -100,7 +100,7 @@
 
 ---
 
-### 🤝 Connect · Contato
+### Connect · Contato
 
 <div align="center">
 
